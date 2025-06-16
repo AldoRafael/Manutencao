@@ -1,4 +1,4 @@
-# Prj_ManutencaoPc
-Desenvolvimento de site para venda e manutenção de computadores
-## Etapas do desenvolvimento:
+# Desenvolvimento de site: Prj_ManutencaoPc
+
+# Etapas:
 ### Briefing()
